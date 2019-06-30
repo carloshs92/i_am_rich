@@ -1,6 +1,6 @@
-# i_am_rich
+# I am rich
 
-I am rich application
+I am rich application from scratch
 
 ## Getting Started
 
